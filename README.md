@@ -4,3 +4,6 @@ This software is developed based on MATLAB and able to create masks for image se
 
 The GUI is shown as follows:
 
+<p align="center">
+  <img src="./ImageMask/ImageMask.png" width="80%">
+</p>
